@@ -4,8 +4,11 @@ This repository contains a visual roadmap to help guide individuals interested i
 
 The roadmap covers various essential topics, techniques and tools used in the industry today. This is based off my experience working with clients on various products.
 
-This learning path is suitable for people who want to transition to data science from both tech or non-tech background.
-
+This learning path is ideal for people who want to transition to data science from:
+- software background
+- existing data analytics background
+- just started with data science
+  
 ## Roadmap
 
 The updated roadmap is hosted on `roadmap.sh`, which you can access by clicking the link below:
