@@ -11,7 +11,7 @@ This learning path is ideal for people who want to transition to data science fr
   
 ## Roadmap
 
-The updated roadmap is hosted on `roadmap.sh`, which you can access by clicking the link below:
+The updated roadmap is available on `roadmap.sh`, which you can access by clicking the link below:
 
 - [Generative AI Roadmap](https://roadmap.sh/r/generative-ai-roadmap-2dmvk)
 
